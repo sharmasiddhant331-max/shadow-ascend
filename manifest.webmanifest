@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "SHADOW ASCEND — Fitness RPG",
+  "short_name": "Shadow Ascend",
+  "description": "Turn real workouts into quests, XP, stats and ranks.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#060b15",
+  "theme_color": "#060b15",
+  "icons": [
+    {"src":"./paw-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
